@@ -1,0 +1,22 @@
+﻿  Game.cpp
+D:\Projects\prac1\prac1\Game.cpp(92,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\prac1\prac1\Game.cpp(96,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\prac1\prac1\Game.cpp(103,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\Projects\prac1\prac1\Game.cpp(117,56): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Projects\prac1\prac1\Game.cpp(118,56): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Projects\prac1\prac1\Game.cpp(119,84): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Projects\prac1\prac1\Game.cpp(119,66): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Projects\prac1\prac1\Game.cpp(159,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\prac1\prac1\Game.cpp(166,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\prac1\prac1\Game.cpp(186,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\prac1\prac1\Game.cpp(192,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\prac1\prac1\Game.cpp(195,27): warning C4018: <: несоответствие типов со знаком и без знака
+  prac1.vcxproj -> D:\Projects\prac1\Debug\prac1.exe
